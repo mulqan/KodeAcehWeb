@@ -1,4 +1,4 @@
-<p align="center"><img src="https://kodeaceh.com/image/logo.png" width="400"></p>
+<p align="center"><img src="https://kodeaceh.com/image/logo.png" width="200"></p>
 
 ## Komunitas Developer Aceh
 Lihat [kodeaceh.com](https://kodeaceh.com/)
