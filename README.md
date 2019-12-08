@@ -17,6 +17,9 @@ Komunitas Developer Aceh adalah komunitas berbasis di Aceh untuk mewadahi para p
 ## Database
 Lihat database > migrations
 
+## Cara Setup Project Setelah Clone
+Lihat tutorialnya di [https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/](https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/) 
+
 ## Jadi Contributor?
 Diskusikan terlebih dahulu apa yang ingin dikembangkan dari web Kode Aceh.
 Hubungi ketua Kode Aceh [mulqan.com](https://mulqan.com/)
